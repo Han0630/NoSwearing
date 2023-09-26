@@ -1,0 +1,10 @@
+name: NoSwearing
+version: '${version}'
+main: cn.noswearing.NoSwearing
+prefix: NoSwearing
+authors: [LanQin_]
+commands:
+  NoSwearing:
+    aliases: [ns]
+    permission: ns.reload
+    permission-message: "§c您并没有执行此命令的权限！"
